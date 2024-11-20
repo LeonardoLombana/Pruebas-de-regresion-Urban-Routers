@@ -16,26 +16,23 @@ Ejecutado segun la parametrización de los requerimientos de la app, de acuerdo 
 > [!TIP]
 > Estos son los requisitos para poder ejecutar la app
 
-# Pruebas automatizadas para solicitar un vehiculo y adiciones del servicio desde la app.
-- Necesitas tener instalados los paquetes pytest y Selenium Web Driver para ejecutar las pruebas.
-- Ejecuta todas las pruebas con el comando pytest.
+# Pruebas en la aplicación para solicitar un vehiculo.
+- Se requiere tener instalado un navegador web, como Google Chrome, Mozilla firefos o Safari.
 
 # Tecnologias usadas:
-- pycharm
-- pytest
-- Selenium Web Driver
+- Pruebas Manuales
+- Pruebas funcionales
+- Pruebas no funcionales
 
 
 > [!IMPORTANT]
-> Para usar la aplicacion requieres leer esto:
+> Para validar la información contenida requieres leer esto:
 
 ## Ejecución de Pruebas 
 1. Clona el repositorio localmente.
-2. Ejecuta Pycharm.
-3. Exportar el proyecto.
-4. Instala las dependencias necesarias (pytest, pip, Selenium)
-5. Ejecuta las pruebas con el comando en el archivo (main.py).
-
+2. Visualizar el archivo correspondiente a los casos de prueba.
+3. Visualizar el archivo a los informes de errores.
+4. 
 
 > [!IMPORTANT]
 > Estado del proyecto
