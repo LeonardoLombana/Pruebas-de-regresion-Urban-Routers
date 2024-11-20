@@ -4,17 +4,14 @@
 
 ## Descripción
 En este proyecto, se realizaron pruebas de regresión de una aplicación de transporte llamada Urban Routes, Urban Routes es una aplicación que crea rutas y calcula la duración y precio del viaje para diferentes tipos de transporte. La interfaz es bastante sencilla, contiene dos campos para las direcciones: "Desde" y "Hasta". Además, cuenta con tres modos ("Óptimo", "Flash" y "Personal"), así como íconos para los tipos de transporte (automóvil del usuario, a pie, taxi, bicicleta, scooter o compartir un automóvil).
-ejecutado segun la parametrización de los requerimientos de la app, de acuerdo a la información de la prueba se debe ejecutar lo siguiente:
 
-1. Configurar la dirección (esta parte se ha escrito para ti como ejemplo).
-2. Seleccionar la tarifa Comfort.
-3. Rellenar el número de teléfono.
-4. Agregar una tarjeta de crédito. 
-5. Escribir un mensaje para el controlador.
-6. Pedir una manta y pañuelos.
-7. Pedir 2 helados.
-8. Aparece el modal para buscar un taxi.
+Ejecutado segun la parametrización de los requerimientos de la app, de acuerdo a la información de la prueba se debe ejecutar lo siguiente:
 
+1. Inciar el servidor que almacena el aplicativo de urban routes.
+2. Crear los casos de prueba con Id, Titulo del caso de prueba, condicion previa, pasos, resultado esperado.
+3. Ejecutar los casos de prueba.
+4. Definir el estado del caso de prueba (Aprobada, No aprobada, Omitida)
+5. Crear un informe de erroes en Jira
 
 > [!TIP]
 > Estos son los requisitos para poder ejecutar la app
@@ -49,5 +46,5 @@ ejecutado segun la parametrización de los requerimientos de la app, de acuerdo 
 ## Presentado por:
 - Leonardo Lombana Contento
 
-## Proyecto parte del sprint 7 - introducción a la automatizacion de pruebas
+## Proyecto parte del sprint 1 - Pruebas de regresión de Urban Routes
 ## Grupo 12 bootcamp QA Engineer - Tripleten
