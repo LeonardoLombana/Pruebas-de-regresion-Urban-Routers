@@ -18,6 +18,8 @@ Ejecutado segun la parametrización de los requerimientos de la app, de acuerdo 
 
 # Pruebas en la aplicación para solicitar un vehiculo.
 - Se requiere tener instalado un navegador web, como Google Chrome, Mozilla firefos o Safari.
+- Tener enlace de acceso al servidor que despliega la aplicación web.
+- Seguir la url que despliega la aplicación.
 
 # Tecnologias usadas:
 - Pruebas Manuales
